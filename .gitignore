@@ -33,3 +33,4 @@ web_modules/
 .env.production.local
 .env.local
 
+src/firebase.js
